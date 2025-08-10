@@ -4,12 +4,12 @@ This course has been developed by UBC and is available from Edx. We recommend yo
 
 > This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language.
 
-**Course Link:** <https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015>
+**Course Link (Recommended):** <https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015>
 
 Alternative Links:
 
-- <https://www.edx.org/course/how-to-code-simple-data> (Up to Week 6A)
-- <https://www.edx.org/course/how-to-code-complex-data> (Week 6B onwards)
+- <https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data> (Up to Week 6A)
+- <https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-complex-data> (Week 6B onwards)
 
 ## Instructions
 
@@ -19,6 +19,7 @@ Alternative Links:
 - Work through Week 1A to Week 6A as given in the course overview. Watch the videos, do the exercises, and then solve the problems from the problem bank.
 - After you complete, Week 6A, do the [space invaders problem](https://github.com/ossu/spd-starters/blob/main/final/space-invaders-starter.rkt). You can find further instructions here: [Space Invaders Instructions](space-invaders-instructions.png). You can watch a sample run of the game [here](https://www.youtube.com/shorts/wUg3psZl7vM).
 - Then, work through Week 6B onwards. Watch the videos, do the exercises, and then solve the problems from the problem bank.
+- After that, watch the extra videos in [this playlist](https://www.youtube.com/playlist?list=PL6NenTZG6KrqdcyTwGf09uBxjI5pbXuT7).
 - After you complete all the modules in the course, do the [TA solver problem](https://github.com/ossu/spd-starters/blob/main/final/ta-solver-starter.rkt). You will find the instructions in the starter file.
 - The problem bank tab has many additional problems. We suggest you to solve all of them to boost your understanding.
 - Some links to starter files in the course are no longer working. You can download the starter files from this github repository: <https://github.com/ossu/spd-starters>. You can download a zip file of all the starter files using [this link](https://github.com/ossu/spd-starters/archive/refs/heads/main.zip).
@@ -42,6 +43,8 @@ Alternative Links:
 - You can use Ctrl + I to reindent the whole file.
 
 - If you are on Windows or Linux, use Alt + Backspace to delete whole words.
+
+- If you are unable to watch the videos on Edx for some reason, you can watch them on [this youtube channel](https://www.youtube.com/@systematicprogramdesign7962/playlists).
 
 ## FAQ
 
